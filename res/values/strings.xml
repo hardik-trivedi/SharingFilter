@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SharingFilter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="share_hint">What you want to share ?</string>
+    <string name="share_all">Share with all possible App</string>
+    <string name="share_filtered">Share with filtered App</string>
+    <string name="intent_subject">Your message\'s subject</string>
+    <string name="share_message">is like to share using</string>
+
+</resources>
